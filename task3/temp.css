@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bgContainer {
+    background-color: orange;
+    height: 95vh;
+}
+
+.tempbgContainer {
+    background-color: lightblue;
+    background-size: cover;
+    border-radius: 10px;
+    border-width: 2px;
+    border-color: black;
+    margin: 5px;
+}
+
+.main-heading {
+    color: green;
+    font-weight: 600;
+    font-family: 'Roboto';
+    font-size: 34px;
+    padding: 10px;
+    text-align: center;
+
+}
+
+.degree {
+
+    font-size: 22px;
+    font-family: 'Roboto';
+    font-weight: 500;
+    color: red;
+    padding-left: 29px;
+}
+
+.select {
+    padding-left: 25px;
+    font-size: 24px;
+    color: red;
+    font-family: 'Roboto';
+    font-weight: 500;
+}
+
+.result {
+    font-size: 30px;
+    font-weight: 500;
+    font-family: "Roboto";
+    color: green;
+    padding-top: 15px;
+    text-align: center;
+}
+.bgCon{
+    text-align: center;
+}
+.button{
+color:blue;
+padding:10px;
+background-color: bisque;
+border-radius: 8px;
+font-weight: bold;
+font-size:20px;
+margin-top: 20px;
+}
+
